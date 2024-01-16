@@ -1,5 +1,5 @@
 body{
-    background-image: none, url(https://img.freepik.com/foto-gratis/pizarra-colegio_1048-4547.jpg?3&w=1380&t=st=1705437072~exp=1705437672~hmac=03b33ad2b41b41e032d8f4c9b756f9b37d72aee8b0a9b4143fb6e1c5ef0f9273);
+    background-image: none, url(https://img.freepik.com/foto-gratis/fiesta-halloween_23-2148603731.jpg?w=1380&t=st=1705441782~exp=1705442382~hmac=92c7ef8119f9da5bfc73d86e3b947c4ff05527dddce0ad71a4f3d32b45a3d195);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -9,4 +9,31 @@ body{
 button{
     color: black;
     size: 1000cm;
+    height: 30px;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Ahorcado{
+    height: 300px;
+    size: 5dvh;
+    font-weight: 400;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+.id-contenedor-palabra{
+    position: relative;
+}
+
+.id-intentos-restantes p {
+    font-weight: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.id-contenedor-palabra p {
+
 }
