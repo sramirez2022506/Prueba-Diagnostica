@@ -1,0 +1,12 @@
+body{
+    background-image: none, url(https://img.freepik.com/foto-gratis/pizarra-colegio_1048-4547.jpg?3&w=1380&t=st=1705437072~exp=1705437672~hmac=03b33ad2b41b41e032d8f4c9b756f9b37d72aee8b0a9b4143fb6e1c5ef0f9273);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+button{
+    color: black;
+    size: 1000cm;
+}
